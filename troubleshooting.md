@@ -29,6 +29,9 @@ Missing route:
 ### Solution
 Add route to enable outbound access
 
+![image](https://github.com/user-attachments/assets/5c7fcaf6-4dc9-4c65-9f08-33b6208c44ef)
+
+![image](https://github.com/user-attachments/assets/300915f9-f39e-4287-bd6a-083363c04570)
 
 
 
